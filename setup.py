@@ -37,7 +37,7 @@ setup(
         'nltk',
         'pdfminer.six',
         'python-dateutil',
-        'requests==2.21.0',
+        'requests>=2.21.0',
         'six',
         'python-crfsuite',
         'tabledataextractor',
